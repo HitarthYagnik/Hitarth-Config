@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HitarthYagnik
-- 👀 I’m interested in Business
-- 🌱 I’m currently learning Python's tkinter library, basic HTML
-- 💞️ I’m looking to collaborate on any app that makes me money
+- 👀 I’m interested in Business and Engineering
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on an ambitious revenue-focused project
 - 📫 How to reach me hitarthyagnik@gmail.com
-- 😄 Pronouns: He/him/Hitarth The great
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: This is a fun fact
 
 <!---
